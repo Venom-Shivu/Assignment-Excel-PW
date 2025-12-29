@@ -145,6 +145,7 @@ Each solution explains **why the formula is used** and the **criteria applied**.
 ---
 
 ### Author
-Prepared by **Shivansh Yadav **  
+Prepared by **Shivansh Yadav**  
 
 Focus: Clarity, collaboration, and visual polish in technical learning.
+
